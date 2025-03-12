@@ -1,4 +1,0 @@
-hello there
-22
-34
-this, is, a, test
